@@ -819,7 +819,7 @@ input[type='checkbox'] {
 .basic-4 {
 	padding-top: 9rem;
 	padding-bottom: 9rem;
-	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../images/mission-background.jpg') center center no-repeat;
+	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../images/mision.png') center center no-repeat;
 	background-size: cover;
 	text-align: center;
 }
